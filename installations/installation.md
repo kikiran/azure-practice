@@ -16,7 +16,10 @@ sudo apt install jenkins
 
 ## Start Jenkins
 
+```
 sudo systemctl enable jenkins
+```
+
 
 ### You can start the Jenkins service with the command:
 
